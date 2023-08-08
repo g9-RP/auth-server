@@ -1,0 +1,2 @@
+POST    /accounts           admin.AccountController.createAccount()
+POST    /accounts/login     admin.AccountController.login()
